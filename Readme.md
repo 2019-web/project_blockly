@@ -63,12 +63,12 @@
 ### 3.1 参考资料
 
 - Google Blockly 资料 : https://developers.google.cn/blockly/
-- 基于 WebGL 的 KataSpace (Sirikata) 参考文档。
-- 基于 Three.js 和 WebSocket 的 3D 虚拟环境 demo。支持多人在线聊天，能够移动并互相看到其他用户的位置。
+- Scratch Blocks 官方文档 : https://scratch.mit.edu/developers
+- Sphere Engine 官方文档 : https://developer.sphere-engine.com/api/compilers?version=3
+- Web Storage W3C 标准文档 : https://www.w3.org/TR/webstorage/
+- Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, “Design Patters: Elements of Reusable Object-Oriented Software”, Addison-Wesley, 1995
 
-### 3.2  参考技术路线
 
-![](./assests/img/1.png)
 
 ## 4. 评分细则 
 
