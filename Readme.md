@@ -33,7 +33,7 @@
 
 ### 1.2 使用流程
 
-> 注:PJ 的具体界面设计和功能安排可自由发挥。除了这些页面外，你可以根据你的场景需要添加其他页面和 交互。
+> 注:PJ 的具体界面设计和功能安排可自由发挥。除了这些页面外，你可以根据你的场景需要添加其他页面和交互。
 
 #### 1.2.1 登录注册页面
 
@@ -67,7 +67,7 @@
 - Sphere Engine 官方文档 : https://developer.sphere-engine.com/api/compilers?version=3
 - Web Storage W3C 标准文档 : https://www.w3.org/TR/webstorage/
 - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, “Design Patters: Elements of Reusable Object-Oriented Software”, Addison-Wesley, 1995
-- runoob.com : http://www.runoob.com/design-pattern/design-pattern-tutorial.html
+- runoob.com 设计模式教程 : http://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
 
 
