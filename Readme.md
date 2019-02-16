@@ -67,6 +67,8 @@
 - Sphere Engine 官方文档 : https://developer.sphere-engine.com/api/compilers?version=3
 - Web Storage W3C 标准文档 : https://www.w3.org/TR/webstorage/
 - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, “Design Patters: Elements of Reusable Object-Oriented Software”, Addison-Wesley, 1995
+- runoob.com : http://www.runoob.com/design-pattern/design-pattern-tutorial.html
+
 
 
 
