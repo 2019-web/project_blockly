@@ -55,11 +55,14 @@
 ## 3. 建议
 
 - 采用前后端分离架构。
-- Web3D 展示建议使用 Three.js 。 多用户的位置同步、协同聊天等功能，建议使用 WebSocket(Socket.io)。
+- 前端框架建议采用 Angular。
+- 后端框架建议采用 SpringBoot。
+
+
 
 ### 3.1 参考资料
 
-- 开源多人 VR 环境 Vnet(Java + VRML)的介绍和源代码。
+- Google Blockly 资料 : https://developers.google.cn/blockly/
 - 基于 WebGL 的 KataSpace (Sirikata) 参考文档。
 - 基于 Three.js 和 WebSocket 的 3D 虚拟环境 demo。支持多人在线聊天，能够移动并互相看到其他用户的位置。
 
